@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Blog App</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="todo">TODO</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_description">Post Description</string>
+    <string name="Post_title1" />
+    <string name="post_title2">Post Title</string>
+    <string name="submit_text">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cre_acc">Create Account</string>
+    <string name="button">Button</string>
+</resources>
